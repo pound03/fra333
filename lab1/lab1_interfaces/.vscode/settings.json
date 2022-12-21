@@ -1,0 +1,13 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/pound/FRA501_MBSE/ws/install/text2speech/lib/python3.8/site-packages",
+        "/home/pound/FRA501_MBSE/ws/install/speech2text/lib/python3.8/site-packages",
+        "/home/pound/ros2/ws/install/lab1_interfaces/lib/python3.8/site-packages",
+        "/home/pound/ros2/ws/install/fra333_lab1_11/lib/python3.8/site-packages",
+        "/home/pound/ros2/ws/install/fra333_lab1/lib/python3.8/site-packages",
+        "/home/pound/ros2/ws/install/dummy_kinematics_interfaces/lib/python3.8/site-packages",
+        "/home/pound/ros2/ws/install/dummy_kinematics/lib/python3.8/site-packages",
+        "/home/pound/ros2/ws/install/dummy_description/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ]
+}
